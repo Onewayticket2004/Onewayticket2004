@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- ![#f03c15](fgf) `#f03c15` 
+# I'm just a noob 
+$\color{#0A0}{ I'm just a noob}$
 
