@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# $\color{#0A0}{I'm/ a/ noob}$  😭
+# $\color{#0A0}{I'm / a / noob}$  😭
