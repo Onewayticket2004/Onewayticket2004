@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15` 
+- ![#f03c15](fgf) `#f03c15` 
 
