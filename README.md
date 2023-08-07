@@ -16,7 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <body>
-  <div class="alert alert-warning">
-    I'm a noob.
-  </div>
+  <font color=green>I'm a noob</font>
 </body>
