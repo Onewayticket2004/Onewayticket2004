@@ -13,6 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="color:#0A0;">
-  s😭
-</div>
+<font color="#0A0">s😭</font>
+
