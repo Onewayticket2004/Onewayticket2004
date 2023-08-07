@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <body>
-  <div style="color:green; font-size:100px;">
+  <div class="alert alert-warning">
     I'm a noob.
   </div>
 </body>
