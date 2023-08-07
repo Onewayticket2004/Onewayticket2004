@@ -15,13 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<style>
-.title{
-  font-size = 400px
-}
-</style>
 <body>
-  <div class=title>
+  <div style="color = green; font-size = 100px;">
     I'm a noob.
   </div>
 </body>
