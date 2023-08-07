@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Onewayticket2004/Onewayticket2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<body>
-  <font color=green>I'm a noob</font>
-</body>
+# $\color{green}{I'm a noob}$
