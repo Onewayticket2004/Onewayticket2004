@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# $\color{#0A0}{Noob}$  😭
+<div style="color:#0A0;">
+  s😭
+</div>
