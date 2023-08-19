@@ -13,5 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 单程票owt
-- I'm just a ~~noob~~ coder who try to save the world. 
-
+I'm just a ~~noob~~ coder who try to save the world.
