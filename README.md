@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Murphy_owt
+# MurphyOWT
 ## 单程票owt
 I'm just a ~~noob~~ coder who try to save the world.
 
