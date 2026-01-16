@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 -->
 # MurphyOWT
 ## 单程票owt
-I'm just a ~~noob~~ coder who try to save the world.
+- Shanghai University of Finance and Economics
+> M.S. in Statistics | 2026 – Present
 
-You know bro, I'm going to take my talents to Github.
+- Shanghai International Studies University
+> B.S. in Data Science | 2022 – 2026
