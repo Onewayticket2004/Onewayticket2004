@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# MurphyOWT
-## 单程票owt
+# Murphy Chen
 - Shanghai University of Finance and Economics
 > M.S. in Statistics | 2026 – Present
 
