@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Murphy Chen
 - Shanghai University of Finance and Economics
-> M.S. in Statistics | 2026 – Present
+> M.Ec. in Statistics | 2026 – Present
 
 - Shanghai International Studies University
 > B.S. in Data Science | 2022 – 2026
